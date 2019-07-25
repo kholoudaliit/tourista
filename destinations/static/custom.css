@@ -1,0 +1,36 @@
+
+.img-circle {
+    border-radius: 50%;
+    border-color: #721675;
+    border-width: medium;
+    align-items: center;
+
+
+}
+
+.ratio {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 0;
+    padding-bottom: 100%;
+    position: relative;
+    width: 100%;
+
+}
+.img-responsive {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+body{
+ background-color: #4d0a4f;
+ font-family: 'Dosis', sans-serif;
+}
+
+.title{
+  font-family: 'Lobster', cursive;
+  color: #4d0a4f;
+
+}
